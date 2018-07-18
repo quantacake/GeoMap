@@ -1,0 +1,12 @@
+
+# ipython files and jupyter notebook
+*.pyc
+*.ipynb_checkpoints/
+*.ipynb
+
+
+# swp files
+*.swp
+
+
+

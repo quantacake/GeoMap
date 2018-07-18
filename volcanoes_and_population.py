@@ -47,7 +47,7 @@ def opacity_pop_adjustor(population):
 
 # Layer 1 - map
 map = folium.Map(
-        location=[lat.median() ,lon.median()],
+        location=[lat.mean() ,lon.mean()],
         zoom_start=5,
         tiles="Mapbox Bright"
         )
